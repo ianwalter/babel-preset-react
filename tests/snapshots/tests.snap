@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic config 1`] = `
+"import \\"core-js/modules/es.object.to-string\\";
+import \\"core-js/modules/es.promise\\";
+import React, { lazy } from 'react';
+import ReactDOM from 'react-dom';
+var msg = lazy(function () {
+  return import('./Msg');
+});
+ReactDOM.render(React.createElement(\\"h1\\", null, msg), document.getElementById('app'));"
+`;
