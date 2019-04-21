@@ -1,6 +1,6 @@
 {
   "name": "@ianwalter/babel-preset-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ian’s Babel preset for React applications",
   "main": "index.js",
   "scripts": {
