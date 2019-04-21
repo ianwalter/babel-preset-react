@@ -30,7 +30,7 @@ Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
 Created by [Ian Walter](https://iankwalter.com)
 
 [babelUrl]: https://babeljs.io/
-[reeactUrl]: https://reactjs.org/
+[reactUrl]: https://reactjs.org/
 [npmImage]: https://img.shields.io/npm/v/@ianwalter/babel-preset-react.svg
 [npmUrl]: https://www.npmjs.com/package/@ianwalter/babel-preset-react
 [licenseUrl]: https://github.com/ianwalter/babel-preset-react/blob/master/LICENSE
